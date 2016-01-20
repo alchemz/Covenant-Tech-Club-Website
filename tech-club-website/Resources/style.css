@@ -1,0 +1,68 @@
+﻿html { 
+    background: url("Resources/index.jpg") no-repeat center center fixed; 
+    background-size: cover;
+}
+
+#header {
+	background: url("Resources/banner.jpg") no-repeat;
+	height: 80px;
+}
+
+#navigation {
+	float: left;
+	width: 800px;
+	background:#333;
+}
+
+#navigation li a {
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color:#fff;
+	text-decoration: none;
+	border-right: 1px solid #000000;
+}
+
+#navigation li a:hover {
+     background:#828282; 
+}
+
+#content {
+    padding: 20px;
+	clear: left;
+    width: 760px;
+	background:#09E9ED;
+}
+
+#slides {
+    display:none;
+    width: auto;
+    height: auto;
+}
+
+a.slidesjs-previous {
+    
+}
+
+a.slidesjs-next {
+
+}
+
+/* removes bullet points from slideshow li */
+/* http://kaijuhost.com/2014/05/20/tutorial-how-to-remove-pagination-from-slidesjs/ */
+.slidesjs-pagination-item {
+    list-style-type: none;
+}
+
+#textblock {
+	font-size: 12pt;
+	font-weight: normal;
+}
+
+#footer {
+	background:#40403D;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
+    width: 760px;
+}
