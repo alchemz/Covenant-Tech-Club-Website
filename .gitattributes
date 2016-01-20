@@ -1,4 +1,4 @@
-*.rb linguist-language=ASP.NET
+*.rb linguist-language=C#
 
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
