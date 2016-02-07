@@ -1,5 +1,4 @@
-*.rb linguist-language=csharp
-docs/formatter.rb linguist-documentation=false
+*.ps1 linguist-language=csharp
 
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
