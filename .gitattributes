@@ -1,5 +1,4 @@
 *.rb linguist-language=csharp
-project-docs/* linguist-documentation
 docs/formatter.rb linguist-documentation=false
 
 ###############################################################################
